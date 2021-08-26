@@ -9,13 +9,13 @@
 </template>
 
 <script>
-// import secondMenu from "@/components/SecondMenu/index.vue";
+import secondMenu from "@/components/SecondMenu/index.vue";
 // import saSystem from "@/benchs/sanesthesia/api/saSystem";
 // import DocumentClassify from "@/benchs/sanesthesia/views/saSystem/DocumentClassify.vue";
 
 export default {
   components: {
-    // secondMenu,
+    secondMenu,
     // DocumentClassify,
   },
   data() {
