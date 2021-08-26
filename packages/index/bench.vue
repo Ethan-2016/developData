@@ -45,7 +45,7 @@ export default {
   //   }
   // },
   mounted() {
-    console.info('index.html loaded.');
+    // console.info('index.html loaded.');
   },
   destroyed() {
   },
