@@ -1,5 +1,5 @@
 {
-  "name": "sys",
+  "name": "sz_sys",
   "version": "0.0.5",
   "description": "",
   "main": "main.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "6b06fc332b707781b6e909b96f8ec5613e3e2a10"
+  "gitHead": "b3f15195ec94fc52eda77f466df9f4c5c7b4c6da"
 }
